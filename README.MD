@@ -1,4 +1,4 @@
-# Basable
+# Basable 
 
 Basable is an open-source software designed to provide comprehensive data management, data visualization, and business insights. The core project is written in [Rust](https://www.rust-lang.org/), offering robust performance, data integrity and reliability.
 
